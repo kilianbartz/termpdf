@@ -1,0 +1,11 @@
+[project]
+name = "termpdf"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pymupdf>=1.26.4",
+    "term-image>=0.7.2",
+    "watchdog>=6.0.0",
+]
