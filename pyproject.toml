@@ -1,7 +1,7 @@
 [project]
 name = "termpdf"
 version = "0.1.0"
-description = "Add your description here"
+description = "A simple PDF-viewer to be used inside a compatible terminal"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
